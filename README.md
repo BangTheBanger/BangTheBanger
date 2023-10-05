@@ -1,7 +1,5 @@
 - Hello, I’m @BangTheBanger.
-- There isn't much to say. Since you're here though, I might as well say something.
-- I'm just a poor man from a poor family wondering who will shield my eyes from this monstrosity.
-- I work on a few languages, I'm not exceptional. I am a good googler though.
-- Eh... I also like music. EDM, Rock, Pop, a mix of all of it...
+- I work on a few languages, Python, C++, Java. I am a good googler.
+- I like EDM, Rock, Pop, a mix of all of it...
 - I play lots of games too. Lots of Rocket League and a little Overwatch. Some single players too, R2D, TLoU, Crusader Kings, Baldur's Gate...
 - Anyway, have a good one.
